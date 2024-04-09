@@ -59,7 +59,8 @@ Before running this notebook, ensure the following are installed:
 
 5. Feel free to explore the code and modify the queries to experiment with different inputs and observe how Claude 3 responds.
 
-<a name="outpudt"></a>
+<a name="output"></a>
+## Output
 ### Questions and Answers:
  - Question: Do you know anything about United Kingdom
  - Answer: ![Answer 1](/images/q1.png)
