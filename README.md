@@ -26,9 +26,8 @@ This section provides an overview of the notebook's purpose and capabilities, hi
 Before running this notebook, ensure the following are installed:
 1. Python
 2. Jupyter Notebook (install via `pip install jupyter`)
-3. Required Python packages (install via `pip install -r requirements.txt`)
-4. Anthropic Claude 3 API Key ([get it here](https://www.anthropic.com/api))
-5. Ninja API Key ([get a free key here](https://api-ninjas.com/))
+3. Anthropic Claude 3 API Key ([get it here](https://www.anthropic.com/api))
+4. Ninja API Key ([get a free key here](https://api-ninjas.com/))
 
 <a name="setup"></a>
 ## Setup
