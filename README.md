@@ -43,7 +43,7 @@ Before running this notebook, ensure the following are installed:
     ```jupyter notebook```
 
 
-5. Open the `anthropic_tool_use_claude3.ipynb` file in Jupyter Notebook.
+5. Open the `Claude 3 Function Call.ipynb.ipynb` file in Jupyter Notebook.
 
 ## Running the Notebook
 
